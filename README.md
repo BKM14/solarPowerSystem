@@ -1,5 +1,7 @@
 # Solar Power System Sizing Tool
 
+**Access code here:-** [Solar Power System Tool](https://onlinegdb.com/Ek5XfBd0X)
+
 This C program is designed to assist users in determining the requirements for setting up a solar power system. 
 By inputting appliance details and system configuration parameters, users can calculate the necessary components 
 such as solar panels, batteries, charge controllers, and inverters.
